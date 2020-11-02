@@ -1,2 +1,2 @@
 # Web-Development-Master
-Software Developer Portolio
+Graduate Portfolio designed using HTML & CSS
